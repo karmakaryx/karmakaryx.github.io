@@ -22,8 +22,8 @@ body {
 }
 .diary .inner {
 	width: 95%;
-	height: calc(100dvh - 160px);
-	padding-top: 160px;
+	height: calc(100dvh - 120px);
+	padding-top: 120px;
 	display: flex;
 	align-items: center;
 	margin: 0 auto;
