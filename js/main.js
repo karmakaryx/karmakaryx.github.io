@@ -1,6 +1,22 @@
 'use strict'
 
-/* 타이핑 */
+	/** 우클릭 방지 */
+document.addEventListener('mousedown', function(e) {
+	if (e.button == 2) {
+		e.preventDefault();
+		return false;
+	}
+});
+
+	/** F12 버튼 방지 */
+document.addEventListener('keydown', function(e) {
+	if (e.keyCode == 123) {
+		e.preventDefault();
+		return false;
+	}
+});
+
+/** 타이핑 */
 const target = document.querySelector('#dynamic');
 
 function blink() {
@@ -25,7 +41,7 @@ function dynamic(arr) {
 }
 dynamic(split);
 
-/* MAKING */
+/** MAKING */
 const elMaking = document.querySelector('.div-making span');
 const elPage2 = document.querySelector('.div-page2');
 const elVideo2 = document.querySelector('.div-page2 > video');
