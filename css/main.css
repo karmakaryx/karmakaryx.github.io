@@ -41,7 +41,8 @@ section {
 	position: relative;
 	display: inline-block;
 	font-family: Yesteryear, cursive;
-	font-size: 50px;
+/*font-size: 50px;*/
+	font-size: 30px;
 	font-style: normal;
 	text-shadow: 2px 2px 2px rgba(30, 5, 20, 0.2);
 	background: linear-gradient(to left top, #861657, #ffa69e);
@@ -57,7 +58,8 @@ section {
 	right: -10px;
 	display: block;
 	background-color: #861657;
-	opacity: .6;
+/*opacity: .6;*/
+	opacity: 0;
 }
 #dynamic.active::after {
 	display: none;
