@@ -22,7 +22,7 @@ const target = document.querySelector('#dynamic');
 function blink() {
 	target.classList.toggle('active');
 }
-setInterval(blink, 500);
+//setInterval(blink, 500);
 
 const str = 'Because I\'m an analog person in the deepfake world.';
 const split = str.split('');
@@ -39,7 +39,7 @@ function dynamic(arr) {
 		}, 10000);
 	}
 }
-dynamic(split);
+//dynamic(split);
 
 /** MAKING */
 const elMaking = document.querySelector('.div-making span');
