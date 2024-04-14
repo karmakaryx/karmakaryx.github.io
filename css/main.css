@@ -26,5 +26,13 @@ section {
   top: 10px;
 	left: 10px;
 	font-size: 17px;
-	color: #666;
+	color: #999;
+}
+
+.div-page1 .div-notice .comment {
+	width: 370px;
+	font-size: 14px;
+	font-weight: 400;
+	color: #333;
+	line-height: 1.3;
 }
