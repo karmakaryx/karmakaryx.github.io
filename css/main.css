@@ -1,22 +1,30 @@
 @charset "UTF-8";
 
 body {
-	width: 100dvw;
-	height: 100dvh;
-	background-image: url(../images/nostril.png);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: contain;
+	background-color: #000;
 	font-family: Archivo, sans-serif;
-	font-size: 17px;
 	font-weight: 700;
 }
-
-div {
-	width: 390px;
-	margin: 0 auto;
-	padding: 0 10px;
+section {
+	position: relative;
 }
-p {
-	text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+
+.div-page1 {
+	height: 100dvh;
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+ .div-page1 > video {
+	width: 100dvw;
+	height: 100%;
+	object-fit: contain;
+	margin: 0 auto;
+}
+.div-page1 .div-notice {
+	position: fixed;
+  top: 10px;
+	left: 10px;
+	font-size: 17px;
+	color: #666;
 }
