@@ -12,7 +12,9 @@ body {
 	overflow-x: hidden;
 }
 .div-page1 img {
-  margin: 10px;
+	width: 100%;
+  padding: 10px;
+	box-sizing: border-box;
 }
 .div-page1 .div-notice {
   margin: 0 10px;
