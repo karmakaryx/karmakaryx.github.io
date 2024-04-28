@@ -6,15 +6,10 @@ body {
 	font-weight: 400;
 }
 
-.div-page1 {
-	width: 100dvw;
-	height: 100dvh;
-	overflow-x: hidden;
-}
 .div-page1 img {
-	width: 100%;
-  padding: 10px;
-	box-sizing: border-box;
+	width: 370px;
+	padding-top: 20px;
+	padding-bottom: 10px;
 }
 .div-page1 .div-notice {
   margin: 0 10px;
