@@ -9,16 +9,15 @@ body {
 section {
 	margin: 0 auto;
 }
-.div-page1 img {
+.div-page1 {
 	width: 370px;
-	padding: 10px 10px 0 10px;
+	margin: 15px;
 }
 .div-page1 .div-notice {
 	width: 370px;
-  margin: 0 10px;
 	font-size: 16px;
-	color: #fff;
-	text-align: right;
+	color: #999;
+	line-height: 1.2;
 }
 .div-page1 .div-notice span {
 	color: #333;
