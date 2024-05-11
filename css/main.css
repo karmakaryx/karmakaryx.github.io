@@ -3,22 +3,24 @@
 body {
 	background-color: #000;
 	font-family: Archivo, sans-serif;
+	font-size: 15px;
 	font-weight: 400;
+	color: #666;
+	line-height: 1.2;
 }
 
 section {
+	width: 390px;
+	padding: 10px;
 	margin: 0 auto;
 }
-.div-page1 {
-	width: 370px;
-	margin: 15px;
+.div-page {
+	margin: 20px auto;
 }
-.div-page1 .div-notice {
-	width: 370px;
-	font-size: 16px;
-	color: #999;
-	line-height: 1.2;
+.div-page iframe {
+	width: 390px;
 }
-.div-page1 .div-notice span {
-	color: #333;
+.div-page p {
+	font-size: 17px;
+	color: #aaa;
 }
