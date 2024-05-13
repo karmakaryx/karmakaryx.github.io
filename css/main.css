@@ -1,28 +1,28 @@
 @charset "UTF-8";
 @media screen and (min-width:390px) {
 	.div-page {
-		width: 370px;
+		width: 380px;
 	}
 }
 
 body {
 	background-color: #000;
 	font-family: Archivo, sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: 400;
 	color: #999;
 	line-height: 1.3;
 }
 
 section {
-	margin: 10px;
+	margin: 20px 5px;
 }
 .div-page {
-	width: 500px;
+	width: 380px;
 }
 .div-page iframe {
-	width: 480px;
-	height: 270px;
+	width: 380px;
+	height: 213.75px;
 }
 .div-page p {
 	color: #ccc;
