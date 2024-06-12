@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Analog People in a Digital World</title>
+	<link rel="icon" href="./favicon.png" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yesteryear&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+	<link rel="stylesheet" href="./css/main.css" />
+	<script defer src="./js/main.js"></script>
+</head>
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+	<section>
+		<div class="div-page">
+			<b>"Did you not know, my friend? Ten years ago was the end"</b><br />
+			<b>from U.K.'s album "Danger Money"</b><br />
+			<br /><br />
+			<div class="tidal-embed" style="position:relative;padding-bottom:100%;height:0;overflow:hidden;max-width:100%">
+				<iframe src="https://embed.tidal.com/tracks/221723759?layout=gridify" allow="encrypted-media" allowfullscreen="allowfullscreen" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:1px;min-height:100%;margin:0 auto"></iframe>
+			</div>
+			<br /><br />
+			CD 시대가 저물 때 대부분의 앨범을 처분했지만 팔리지 않거나 내가 아끼는 앨범들은 남겨뒀는데<br />
+			그 살아남은 백몇십장 중 한 장이다.<br />
+			쟁쟁한 Progressive Rock 거장들이 모였던 프로젝트 그룹답게 Rendezvous 6:02 이 곡 뿐만 아니라 모든 곡이 수준급이다.<br />
+			Danger Money.. 의미심장한 앨범 제목.<br />
+			<br /><br />
+			약 한 달 반 뒤에 나는 자살한다.<br />
+			건강이 안 좋긴 하지만 죽을 병에 걸리거나 그런건 아니다.<br />
+			오늘도 가톨릭서울성모병원에 다녀왔다. 이번 검사결과도 좋다.<br />
+			병은 나을 것 같지만 5천만원을 구할 방법이 없다.<br />
+			솔직히 더 살고 싶다. (산 목숨은 생각보다 비굴하더라.)<br />
+			그동안 죽고 싶다는 말을 자주 했지만 그건 죽을만큼 힘들다는 얘기였지, 그 때마다 나는 번번이 이를 악물고 살아남았다.<br />
+			<br /><br />
+			그러나 이제는 내가 마음을 강하게 먹는다고 해결되는 문제도 아니고..<br />
+			빚을 해결하고 남은 가족들에게 피해를 주지 않을 유일한 방법은 자살 뿐이다.<br />
+			(뭐 그들은 내가 죽는다고 그다지 신경쓰지도 않겠지만)<br />
+			<br /><br />
+			이미 지난달부터 파산은 시작되었고 돈을 구할 곳이 더이상 없다는 것을 인정해야했다.<br />
+			그래서 그 때부터 거의 인생을 포기했다. 내가 노력한다고 결과가 바뀌지도 않으니<br />
+			그냥 아무 때나 일어나 밥먹고 청소하고 웹서핑이나 하고 평소처럼 음악 듣고<br />
+			그렇게 무생물처럼 하루하루 죽을 날을 기다리고 있다.<br />
+			<br /><br />
+			이제와 딱히 뭔가를 시작한다는 자체가 아무 의미가 없기 때문에 그냥 아무것도 하지 않는다.<br />
+			포기하니까 마음이 마비된 것처럼 화도 나지 않고 즐겁지도 않고 무슨 일에건 무덤덤하다.<br />
+			아마 내 인생이 고작 5천만원 때문에 끝장날거라고 생각조차 못해봤기 때문에<br />
+			아직도 이 현실을 충분히 실감하지 못하고 있다고 보는게 맞을 것이다.<br />
+			하루하루 다가오는 죽음의 그림자를 남의 일인 양 애써 외면하면서.<br />
+			<br /><br />
+			내 인생, 참 하찮았다.<br />
+			<br /><br />
+		</div>
+	</section>
+</body>
+</html>
