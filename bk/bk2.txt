@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Analog People in a Digital World</title>
+	<link rel="icon" href="./favicon.png" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yesteryear&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+	<link rel="stylesheet" href="./css/main.css" />
+	<script defer src="./js/main.js"></script>
+</head>
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+	<section>
+		<div class="div-page">
+			“Look, it’s either me or 6am [exercise] :)”<br />
+			“Are you coming over? If not, I will probably tranq out. Too stressed to sleep naturally.”<br />
+			<br />
+			Disgusting and no surprise. :)<br />
+			<br />
+			It is clear that they have deliberately exposed this scandal right before the shareholders' meeting.<br />
+			But there is no evidence that this is false just because the timing is suspicious.<br />
+			If you keep farting, it's def poop.💩<br />
+			<br />
+			Next revelation is who? Sexlaptop? :)<br />
+			<br />
+			Lie to me (again) or<br />
+			“Probably best if we don’t see each other.”<br />
+			<br /><br />
+			Coincidentally, you and I have the same habit of using this ":)" legacy emoticon in the emoji era when we have a cynical smile.<br />
+			So Jack used to freeze for a moment when I used this emoticon.<br />
+			<br />
+			Also, the reason I'm smart and beautiful enough but still not married was to find a man smarter than me to give birth to children with high IQ. Apparently you've been thinking the same thing for a long time.<br />
+			Today I've realized this thought is very creepy and decided to abandon this eugenic idea.<br />
+			<br /><br /><br />
+			Actually whatever. I'm so busy surviving that I don't have time to be bothered by this dirty story.<br />
+			Ngl, I'll have to kill myself after a month or two. It's not a mental issue. Of course I'll try until the end to live, but if I can't pay back my debt of about $50,000, I have to do it not to harm the rest of my family. So shameful and miserable but it's true.<br />
+			<br />
+			I don't know if I'm fortunate or unfortunate getting to know you're that kind of man before I die.<br />
+			But I don't have any feeling tbh bc I've got bigger fish to fry.<br />
+			The water came up to my neck. (Now there's not much struggle I can do, tho.)<br />
+			Just thought, "There you go again." Oh, not the MSM but you. :)<br />
+			Take care of your karma yourself.<br />
+			I didn't tell you because you always laugh at astrology, but hope you're aware that your 20 years of free luck are over.<br />
+			How do I know? Right after you were chosen by Tyche, NASA signed a contract with you.<br />
+			Oh I'm definitely not disparaging your past efforts. But there are countless people in the world who strive, and without God's choice, you won't get the chance to show your marvelous talents.<br />
+			<br />
+			So anyway, (the main reason was due to my financial situation but) around that time, I sold off all my $TSLA and bought $NVDA. (Because Huang is the next one.😑)<br />
+			I ended up having to sell them too two days ago to pay my bills, but $NVDA will keep going up like $TSLA did.<br />
+			<br />
+			$SQ gave me over 80% loss and I lost nearly 40% from $TSLA.<br />
+			Of course I wouldn't have sold those whether up or down unless the sudden debt accident.<br />
+			<br />
+			Your achievements and reputation are so great that you're not going to go bankrupt like me, but I hope you don't do such unethical things and live a sincere life now.<br />
+			But you don't need to take it seriously because I heard that you hate being nagged or advised by a woman.<br />
+			Moreover, you don't need to by a moron who doesn't have only $50,000 and has to commit suicide. So you can mock me as much as you want. :)<br />
+			<br /><br />
+		</div>
+	</section>
+</body>
+</html>
