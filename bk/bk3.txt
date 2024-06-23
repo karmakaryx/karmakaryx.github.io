@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Analog People in a Digital World</title>
+	<link rel="icon" href="./favicon.png" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Yesteryear&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+	<link rel="stylesheet" href="./css/main.css" />
+	<script defer src="./js/main.js"></script>
+</head>
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+	<section>
+		<div class="div-page">
+			Thanks for accepting my request. The symptom disappeared after posting.<br />
+			I've been watching it for over a day and now it certainly looks like back to normal.<br />
+			It's been so annoying for months.<br />
+			<br />
+			Also, I was miserable because the result was only to be bullied like this when I willingly accepted someone's interest in me and repaid it with love and respect.<br />
+			I've never been one of those pick-me golddiggers flattering around you, and I had had no PERSONAL interest in you in the first place as you know.<br />
+			So I don't know why you were so mean to me. You have disappointed me in many ways, but I still have no bad feelings towards you.<br />
+			It may be hard to respect you as a man now, but I admire you for the achievements you have made as an engineer as always.<br />
+			<br />
+			Anyway I can't afford to be a victim of this useless psyop when my life is hanging on a string.<br />
+			So if you aren't concerned about me seriously, leave me alone..<br />
+			<br />
+			<p align="center">====================</p>
+			<br />
+			I hope it's my misunderstanding,<br />
+			if anyone who is reading this gives a reason why my laptop keeps waking up from sleep, stop it.<br />
+			<br />
+			It's been months since this happened, but I didn't want to talk about conspiracy theories like some psycho bitches on Reddit, crying "My laptop and phone are being hacked by EM!"<br />
+			(They're really crazy.. Especially, CatPrincessWhateva and Gullaboblahblah)<br />
+			So I just thought, 'There must be something broken somewhere or a useless program was installed. I need to reinstall the OS soon.'<br />
+			However, this phenomenon became the main reason why my laptop broke down overnight and I had to replace the entire mainboard where the SSD was soldered due to the feature of the MacBook.<br />
+			<br />
+			But this wasn't just a matter of repair costs of about 1.2 million won.<br />
+			I mistook I had made a backup around March, so I thought I only lost a couple of months worth of data and wrote that I could just start over.<br />
+			But no.. I really feel like an invisible hand is pushing me to quickly make the decision to end my life.<br />
+			I later found out that I CUT it from the external SSD instead of backing up, as if I was possessed by a ghost.<br />
+			I just lost it all. The most necessary software I purchased, music work and drawings I worked on, my photos, my codes, important documents, notes, other essential data..<br />
+			The data remaining on the external SSD is just garbage. All the data that I always use and the data that I had organized was gone.<br />
+			Because there's no list of exactly what's gone, whenever I encounter the situation, "Oh, where's the document?", I hope there's somewhere on the external SSD, but I have to admit that it was among the missing data after all.<br />
+			My life was just reset.<br />
+			<br /><br />
+			But even though I completely replaced the mainboard and installed the OS cleanly with USB, this symptom happens again?<br />
+			Of course I turned off all the features such as "Wake up with the network" provided by the OS.<br />
+			Then I can only conclude that someone is playing a prank..<br />
+			As the evidence, this symptom has disappeared like a lie in the last few days. But it started again after someone went back to Austin.<br />
+			<br />
+			Hey, if you want to check if my laptop is on because you're wondering if I'm dead or alive, stop now because I'm going to stream the scene I commit suicide on X.<br />
+			If I really have to die, I would probably jump into the Han River.<br />
+			If I hang myself at home, it will cause great harm to my neighbors and the homeowner. But if I fall into the water, I can die within 5 minutes at the most.<br />
+			I plan to jump off with a heavy object attached to my feet so that my body can't be easily discovered.<br />
+			<br />
+			So, you don't have to keep checking to see if I'm alive because you can clearly see with your own eyes whether I'm just pretending or not.<br />
+			It's already hard enough to live, so don't tire me out like this.<br />
+			I'm just living like an inanimate object and doing nothing but surf the web meaninglessly with empty eyes to forget the fear these days, so there's no need to wonder what I'm doing.<br />
+			The deadline is mid-July at the earliest or mid-August.<br />
+			I don't want to die like this either, so please don't rush me.<br />
+			<br />
+			But if you don't know anything about the malfunction of my laptop, just think some crazy megalomaniac is talking bullshit.<br />
+			<br /><br />
+			I'd like to find a way to survive, but it's already past time for me to solve the problem.<br />
+			You may want to giggle that I said like good luck was coming back blah blah, but I can't help it because the huge accident occurred right before that like a lie and the situation became impossible to handle.<br />
+			<br />
+			And a few days ago, I found out that the accident was caused by the balance display of the stock trading app being ambiguous.<br />
+			In other words, it was a problem that could be solved. I thought it was my calculation mistake, but it wasn't.<br />
+			At that time, while struggling to prevent bankruptcy, I blew away more than 15 million won in two days because I panicked and got flustered too much, and then there was no longer a way to recover from the money problem.<br />
+			I don't have any rich friends who can borrow me around $50,000 and my family can't help me either bc my mom has suddenly cancer and my sister's kids have just started college. (Fuck, it's some kind of unfortunate contest.😂)<br />
+			<br />
+			When the Covid regulation finally ended last year and I was trying to return to work, an unforeseen tax problem occurred, the humidifier disinfectant victims compensation investigation that lasted for years went wrong, I suffered from severe depression, and so on..<br />
+			So I was starting to get into debt, but I had a repayment plan.<br />
+			However, it became such an extreme situation in just a few days last month.<br />
+			In such a short moment, my life suddenly crashed and became unrecoverable. It still feels surreal and I'm just having a nightmare.<br />
+			<br /><br />
+			I lost money, I lost data, my life doesn't have much left now, so don't play a meaningless prank to me like this.<br />
+			If there's anything you need from me or want to know, I'd like you to ask me directly.<br />
+			If not, go ahead and live your life. I'm done.<br />
+			<br /><br />
+		</div>
+	</section>
+</body>
+</html>
